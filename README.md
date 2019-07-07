@@ -1,7 +1,5 @@
 # React Native Simple Note
 
-Here is my new repository which builded with React Native Framework for making the User Interface in JavaScript syntax, see my previous repository about [ExpressJS - Simple Note App RESTful API](https://github.com/andreferi3/ExpressJS-Simple-Note-App-RESTful-API/) for the backend side and making API.
-
 ### What is React Native ?
 React Native is an open-source mobile application framework created by Facebook. It is used to develop applications for Mobile by enabling developers to use React along with native platform capabilities. [[1]](https://en.wikipedia.org/wiki/React_Native)
 
@@ -24,6 +22,10 @@ React Native invokes Objective-C APIs to render to iOS components, or Java APIs 
 ## Requirements
 1. npm (node package manager)
 2. react-native-cli (from npm)
+
+## Back end 
+
+[restApi-simple-note-using-expressjs](https://github.com/dymzfp/restApi-simple-note-using-expressjs/)
 
 ## How to run the app ?
 1. `git clone https://github.com/dymzfp/React-Native-Simple-Note.git`
