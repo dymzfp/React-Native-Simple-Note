@@ -37,11 +37,11 @@ React Native invokes Objective-C APIs to render to iOS components, or Java APIs 
 ## Screenshot from the app
 <p align='center'>
   <span>
-  <img src='https://github.com/andreferi3/ReactNative-Note-App/blob/master/src/Screens/Screenshot_1561651909.png' width=200 />
-  <img src='https://github.com/andreferi3/ReactNative-Note-App/blob/master/src/Screens/Screenshot_1561651914.png' width=200 />
-  <img src='https://github.com/andreferi3/ReactNative-Note-App/blob/master/src/Screens/Screenshot_1561651917.png' width=200 />
-  <img src='https://github.com/andreferi3/ReactNative-Note-App/blob/master/src/Screens/Screenshot_1561651923.png' width=200 />
+  <img src='https://user-images.githubusercontent.com/35985089/60768599-f0daa680-a0ef-11e9-86ac-e24d94f0b9c7.jpeg' width=200 />
+  <img src='https://user-images.githubusercontent.com/35985089/60768600-f46e2d80-a0ef-11e9-947f-9304b7a6700d.jpeg' width=200 />
+  <img src='https://user-images.githubusercontent.com/35985089/60768602-f801b480-a0ef-11e9-8571-4be1c7c4a742.jpeg' width=200 />
+  <img src='https://user-images.githubusercontent.com/35985089/60768604-fafca500-a0ef-11e9-9ed1-44c29b996b2c.jpeg' width=200 />
+    <img src='https://user-images.githubusercontent.com/35985089/60768607-fd5eff00-a0ef-11e9-9da0-100d04b56fa2.jpeg' width=200 />
+  <img src='https://user-images.githubusercontent.com/35985089/60768604-fafca500-a0ef-11e9-9ed1-44c29b996b2c.jpeg' width=200 />
   </span>
 </p>
-
-![wal](https://user-images.githubusercontent.com/35985089/60763233-340a2a80-a09a-11e9-9a83-9a20ddf4a536.jpg)
