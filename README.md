@@ -25,7 +25,7 @@ React Native invokes Objective-C APIs to render to iOS components, or Java APIs 
 
 ## Back end 
 
-[restApi-simple-note-using-expressjs](https://github.com/dymzfp/restApi-simple-note-using-expressjs/)
+[RestAPI-Simple-Note-With-Expressjs-and-MongoDB](https://github.com/dymzfp/RestAPI-Simple-Note-With-Expressjs-and-MongoDB/)
 
 ## How to run the app ?
 1. `git clone https://github.com/dymzfp/React-Native-Simple-Note.git`
